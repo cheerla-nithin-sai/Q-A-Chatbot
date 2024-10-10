@@ -1,0 +1,6 @@
+langchain # to use langchain
+langchain_community
+langchain_core
+python_dotenv
+streamlit # Webapp
+langchain_openai
