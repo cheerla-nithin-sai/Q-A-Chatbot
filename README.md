@@ -1,3 +1,4 @@
 ## Question n answer Chatbot using Langchain and OpenAI
-1. app.py is Q/A chatbot using OpenAI models
-2. Openapp.py is Q/A chatbot using OpenSource models
+### 1. app.py is Q/A chatbot using OpenAI models
+### 2. Openapp.py is Q/A chatbot using OpenSource models
+### Both models doesn't store information about previously asked questions
